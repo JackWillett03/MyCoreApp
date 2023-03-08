@@ -1,0 +1,21 @@
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\Login System.exe
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\Login System.deps.json
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\Login System.runtimeconfig.json
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\Login System.runtimeconfig.dev.json
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\Login System.dll
+C:\Users\jack-\source\repos\Login System\bin\Debug\netcoreapp3.1\Login System.pdb
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.csproj.AssemblyReference.cache
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.AssemblyInfoInputs.cache
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.AssemblyInfo.cs
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.csproj.CoreCompileInputs.cache
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\staticwebassets\Login System.StaticWebAssets.Manifest.cache
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\staticwebassets\Login System.StaticWebAssets.xml
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\scopedcss\bundle\Login System.styles.css
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.RazorTargetAssemblyInfo.cache
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.dll
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.pdb
+C:\Users\jack-\source\repos\Login System\obj\Debug\netcoreapp3.1\Login System.genruntimeconfig.cache
